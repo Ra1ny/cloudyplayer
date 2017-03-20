@@ -1,0 +1,18 @@
+{
+  "name": "cloudyplayer",
+  "homepage": "https://github.com/Ra1ny/cloudyplayer",
+  "authors": [
+    "Kirill <kirill@gordeenko.com>"
+  ],
+  "description": "Universal media player",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

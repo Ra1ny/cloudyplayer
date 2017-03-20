@@ -1,0 +1,19 @@
+{
+  "name": "cloudyplayer",
+  "version": "1.0.0",
+  "description": "Universal media player",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ra1ny/cloudyplayer.git"
+  },
+  "author": "Kirill Gordeenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ra1ny/cloudyplayer/issues"
+  },
+  "homepage": "https://github.com/Ra1ny/cloudyplayer#readme"
+}
